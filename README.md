@@ -1,4 +1,4 @@
-### Fala ai tudo certo? Eu sou o Bruno Yamazaki
+### Fala ai tudo certo? Eu sou o Bruno Gustavo
 
 - 🔭 Atualmente trabalhando com front-end
 - 🌱 Estudando HTML e CSS(pretendo estudar JAVASCRIPT).
