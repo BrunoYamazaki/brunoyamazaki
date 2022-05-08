@@ -1,7 +1,7 @@
 ### Fala ai tudo certo? Eu sou o Bruno Gustavo
 
 - 🔭 Atualmente trabalhando com front-end
-- 🌱 Estudando HTML e CSS(pretendo estudar JAVASCRIPT).
+- 🌱 Estudando HTML, CSS e JAVASCRIPT.
 - 📫 Entre em contato comigo pelo meu email: brunogsm45@gmail.com ou meu whatsapp (41) 99507-0859
 
 <div align="center">
