@@ -1,8 +1,6 @@
-### Fala ai tudo certo? Eu sou o Bruno Gustavo
+### Fala ai tudo certo? Eu sou o Gustavo Silva.
 
-- 🔭 Atualmente procurando um trabalho como programador
-- 🌱 Estudando JAVASCRIPT.
-- 📫 Entre em contato comigo pelo meu email: brunogsm45@gmail.com ou meu whatsapp (41) 99507-0859
+- 🌱 Melhorando cada dia que passa.
   
   ##
   
